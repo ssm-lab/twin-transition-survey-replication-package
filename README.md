@@ -19,5 +19,4 @@ Twin transition is the method of parallel digital and sustainability transitions
 
 ### Run analysis
 - For publication trends: execute `python .\scripts\publication_trends.py` from the root folder.
-- For the quality report: execute `python .\scripts\quality.py` from the root folder.
 - For RQ1: execute `python .\scripts\mosaic.py` from the root folder.
