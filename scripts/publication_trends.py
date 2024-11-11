@@ -13,7 +13,7 @@ __license__ = "GPL-3.0"
 
 inputFolder = './data'
 outputFolder = './output'
-data = pd.read_excel(f'{inputFolder}/data.xlsx')
+data = pd.read_excel(f'{inputFolder}/data-extracted.xlsx')
 
 #collection for non-default category thresholds
 thresholds = {
