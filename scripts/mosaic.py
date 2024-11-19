@@ -15,10 +15,10 @@ data = data.dropna(subset=['Approach'])
 props={}
 props[('Parallel Transition','True')]={'facecolor':'#df979e', 'edgecolor':'white'}
 props[('Parallel Transition','False')]={'facecolor':'#d7658b', 'edgecolor':'white'}
-props[('Informed Transition','True')]={'facecolor':'#a7d5ed', 'edgecolor':'white'}
-props[('Informed Transition','False')]={'facecolor':'#63bff0', 'edgecolor':'white'}
-props[('Twin Transition','True')]={'facecolor':'#8be04e', 'edgecolor':'white'}
-props[('Twin Transition','False')]={'facecolor':'#5ad45a', 'edgecolor':'white'}
+props[('Informed Transition','True')]={'facecolor':'#eafa8e', 'edgecolor':'white'}
+props[('Informed Transition','False')]={'facecolor':'#d0e075', 'edgecolor':'white'}
+props[('Twin Transition','True')]={'facecolor':'#85d4ff', 'edgecolor':'white'}
+props[('Twin Transition','False')]={'facecolor':'#70b9e0', 'edgecolor':'white'}
 
 labelizer=lambda k:{
     ('Parallel Transition','True'): len(data[(data['Approach']=='Parallel Transition') & (data['Mentions TT']==True)]),
