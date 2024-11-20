@@ -13,10 +13,10 @@ data = pd.read_excel(f'{inputFolder}/data-full.xlsx')
 data = data.dropna(subset=['Approach'])
 
 props={}
-props[('Parallel Transition','True')]={'facecolor':'#df979e', 'edgecolor':'white'}
-props[('Parallel Transition','False')]={'facecolor':'#d7658b', 'edgecolor':'white'}
-props[('Informed Transition','True')]={'facecolor':'#eafa8e', 'edgecolor':'white'}
-props[('Informed Transition','False')]={'facecolor':'#d0e075', 'edgecolor':'white'}
+props[('Parallel Transition','True')]={'facecolor':'#d6d6d6', 'edgecolor':'white'}
+props[('Parallel Transition','False')]={'facecolor':'#bfbfbf', 'edgecolor':'white'}
+props[('Informed Transition','True')]={'facecolor':'#a5bfcf', 'edgecolor':'white'}
+props[('Informed Transition','False')]={'facecolor':'#879ba8', 'edgecolor':'white'}
 props[('Twin Transition','True')]={'facecolor':'#85d4ff', 'edgecolor':'white'}
 props[('Twin Transition','False')]={'facecolor':'#70b9e0', 'edgecolor':'white'}
 
