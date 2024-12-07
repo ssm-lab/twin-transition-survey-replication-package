@@ -19,6 +19,7 @@ props[('Informed Transition','True')]={'facecolor':'#a5bfcf', 'edgecolor':'white
 props[('Informed Transition','False')]={'facecolor':'#879ba8', 'edgecolor':'white'}
 props[('Twin Transition','True')]={'facecolor':'#85d4ff', 'edgecolor':'white'}
 props[('Twin Transition','False')]={'facecolor':'#70b9e0', 'edgecolor':'white'}
+# https://huemint.com/brand-3/#palette=70347d-d6d6d6-a5bfcf-85d4ff
 
 labelizer=lambda k:{
     ('Parallel Transition','True'): len(data[(data['Approach']=='Parallel Transition') & (data['Mentions TT']==True)]),
