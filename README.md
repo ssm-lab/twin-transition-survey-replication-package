@@ -8,9 +8,11 @@ Twin transition is the method of parallel digital and sustainability transitions
 
 ## Contents
 
-- `/data` - Data extraction sheet of 22 included studies (with fully extrated data); and 16 eventually excluded studies (with quality data that justifies the exclusion).
-- `/scripts` - Analysis scripts for the automated analysis of data.
-- `/output` - Results of the analyses as used in the article.
+- `/data`
+  - `data-full.xlsx` - Data sheet of 161 shortlisted studies (66 parallel transition, 71 informed transition, 24 twin transition)
+  - `data-extracted.xlsx` - Data extraction sheet of the 24 twin transition studies
+- `/scripts` - Analysis scripts for the automated analysis of data
+- `/output` - Results of the analyses as used in the article
 
 ## How to use
 
@@ -20,3 +22,4 @@ Twin transition is the method of parallel digital and sustainability transitions
 ### Run analysis
 - For publication trends: execute `python .\scripts\publication_trends.py` from the root folder.
 - For RQ1: execute `python .\scripts\mosaic.py` from the root folder.
+- For RQ2: execute `python .\scripts\upset.py` from the root folder.
