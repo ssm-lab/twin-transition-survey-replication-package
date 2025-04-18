@@ -24,7 +24,7 @@ orderByCategory = ['Publication year', 'Publication type']
 
 orders = {
     'Publication year' : ['2018', '2019', '2020', '2021', '2022', '2023', '2024'],
-    'Publication type' : ['Academic', 'Grey'],
+    'Publication type' : ['Academic', 'Gray'],
     'Academic publication type' : ['Book chapter', 'Journal', 'Conference', 'Workshop'],
 }
 
