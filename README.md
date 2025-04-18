@@ -1,10 +1,10 @@
 # Replication package
 
-### for the paper _Twin Transition: Bridging the Silos of Digitalization and Sustainability_.
+### for the paper _Bridging the Silos of Digitalization and Sustainability by Twin Transition: A Multivocal Literature Review_.
 
 
 ## About
-Twin transition is the method of parallel digital and sustainability transitions in a mutually supporting way—or, in common terms, "greening of and by IT and data". Twin transition reacts to the growing problem of unsustainable digitalization, particularly in the ecological sense. Ignoring this problem will eventually limit the digital adeptness of society and the problem-solving capacity of humankind. Information systems (IS) engineering must find ways to support twin transition journeys through its substantial body of knowledge, methods, and techniques. To this end, we systematically survey the academic and grey literature on twin transition, clarify key concepts, and derive leads for IS scientists and practitioners to steer their research and development efforts.
+Twin transition is the method of parallel digital and sustainability transitions in a mutually supporting way or, in common terms, ``greening of and by IT and data''. Twin transition reacts to the growing problem of unsustainable digitalization, particularly in the ecological sense. Ignoring this problem will eventually limit the digital adeptness of society and the problem-solving capacity of humankind. Information systems engineering must find ways to support twin transition journeys through its substantial body of knowledge, methods, and techniques. To this end, we systematically survey the academic and gray literature on twin transition, clarify key concepts, and derive leads for researchers and practitioners to steer their innovation efforts.
 
 ## Contents
 
